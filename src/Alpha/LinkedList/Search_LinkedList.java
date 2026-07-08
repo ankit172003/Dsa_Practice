@@ -79,26 +79,4 @@ public class Search_LinkedList {
         System.out.println("Data found on index : "+ ll.iterative(10));
         System.out.println("Recursive Search Data : "+ll.recursiveSearch(1,50,head));
     }
-
-    cfbhbcshcsdv
-
-    asdvjs
-
-
-            sdvsdv
-
-    sdvsdv
-
-                    svsdvsd
-    svsdvsdsvd
-                            v
-
-    vsv
-                                    s
-    v
-
-    public void setV(s v) {
-        sv
-                sdv
-    }
 }
